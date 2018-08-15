@@ -23,6 +23,22 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebForms.Tem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.Spa.Template.IndividualAuth", "WebApplication.Spa.Template.IndividualAuth\WebApplication.Spa.Template.IndividualAuth.csproj", "{F9FE541D-F232-4397-A635-028169FD17B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebApiCore.NoAuth", "WebApplication.WebApiCore.NoAuth\WebApplication.WebApiCore.NoAuth.csproj", "{B811A25F-E663-4D62-AC2B-4BA7A2803FB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebApiCore.WindowsAuth", "WebApplication.WebApiCore.WindowsAuth\WebApplication.WebApiCore.WindowsAuth.csproj", "{049E1CCA-1A2A-4A20-B917-7DE815DAE9A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.MvcCore.NoAuth", "WebApplication.MvcCore.NoAuth\WebApplication.MvcCore.NoAuth.csproj", "{522A1A79-7924-4DFC-9348-36C47257982B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.MvcCore.IndividualAuth", "WebApplication.MvcCore.IndividualAuth\WebApplication.MvcCore.IndividualAuth.csproj", "{E474AEA1-D4C4-4732-8108-2639885EE129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.MvcCore.WindowsAuth", "WebApplication.MvcCore.WindowsAuth\WebApplication.MvcCore.WindowsAuth.csproj", "{04C5976F-2256-490F-AC87-1622FC02F19B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebCore.NoAuth", "WebApplication.WebCore.NoAuth\WebApplication.WebCore.NoAuth.csproj", "{B636C622-A3F0-4FC8-8172-615EA6B9AD6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebCore.IndividualAuth", "WebApplication.WebCore.IndividualAuth\WebApplication.WebCore.IndividualAuth.csproj", "{1683A543-A6C2-40BE-8229-F0A3BFA06E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebCore.WindowsAuth", "WebApplication.WebCore.WindowsAuth\WebApplication.WebCore.WindowsAuth.csproj", "{534FA434-8409-4089-9A26-401F2558E039}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +85,38 @@ Global
 		{F9FE541D-F232-4397-A635-028169FD17B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9FE541D-F232-4397-A635-028169FD17B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9FE541D-F232-4397-A635-028169FD17B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B811A25F-E663-4D62-AC2B-4BA7A2803FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B811A25F-E663-4D62-AC2B-4BA7A2803FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B811A25F-E663-4D62-AC2B-4BA7A2803FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B811A25F-E663-4D62-AC2B-4BA7A2803FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049E1CCA-1A2A-4A20-B917-7DE815DAE9A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049E1CCA-1A2A-4A20-B917-7DE815DAE9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049E1CCA-1A2A-4A20-B917-7DE815DAE9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049E1CCA-1A2A-4A20-B917-7DE815DAE9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522A1A79-7924-4DFC-9348-36C47257982B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522A1A79-7924-4DFC-9348-36C47257982B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522A1A79-7924-4DFC-9348-36C47257982B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522A1A79-7924-4DFC-9348-36C47257982B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E474AEA1-D4C4-4732-8108-2639885EE129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E474AEA1-D4C4-4732-8108-2639885EE129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E474AEA1-D4C4-4732-8108-2639885EE129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E474AEA1-D4C4-4732-8108-2639885EE129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C5976F-2256-490F-AC87-1622FC02F19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C5976F-2256-490F-AC87-1622FC02F19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C5976F-2256-490F-AC87-1622FC02F19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C5976F-2256-490F-AC87-1622FC02F19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B636C622-A3F0-4FC8-8172-615EA6B9AD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B636C622-A3F0-4FC8-8172-615EA6B9AD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B636C622-A3F0-4FC8-8172-615EA6B9AD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B636C622-A3F0-4FC8-8172-615EA6B9AD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1683A543-A6C2-40BE-8229-F0A3BFA06E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1683A543-A6C2-40BE-8229-F0A3BFA06E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1683A543-A6C2-40BE-8229-F0A3BFA06E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1683A543-A6C2-40BE-8229-F0A3BFA06E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534FA434-8409-4089-9A26-401F2558E039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534FA434-8409-4089-9A26-401F2558E039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534FA434-8409-4089-9A26-401F2558E039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534FA434-8409-4089-9A26-401F2558E039}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
