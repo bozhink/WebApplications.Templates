@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.Mvc.Template
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.Mvc.Template.IndividualAuth", "WebApplication.Mvc.Template.IndividualAuth\WebApplication.Mvc.Template.IndividualAuth.csproj", "{43282CEA-02BA-4F27-B35F-8902FA159BEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.Mvc.Template.WindowsAuth", "WebApplication.Mvc.Template.WindowsAuth\WebApplication.Mvc.Template.WindowsAuth.csproj", "{BA5556F5-C670-4FA0-81A5-E5A3E0677A61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{43282CEA-02BA-4F27-B35F-8902FA159BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43282CEA-02BA-4F27-B35F-8902FA159BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43282CEA-02BA-4F27-B35F-8902FA159BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5556F5-C670-4FA0-81A5-E5A3E0677A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5556F5-C670-4FA0-81A5-E5A3E0677A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5556F5-C670-4FA0-81A5-E5A3E0677A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5556F5-C670-4FA0-81A5-E5A3E0677A61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
