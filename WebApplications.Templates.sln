@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebApi.Templ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.Mvc.Template.NoAuth", "WebApplication.Mvc.Template.NoAuth\WebApplication.Mvc.Template.NoAuth.csproj", "{3E9FB476-DEB7-4261-A1F9-A4044B05F216}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.Mvc.Template.IndividualAuth", "WebApplication.Mvc.Template.IndividualAuth\WebApplication.Mvc.Template.IndividualAuth.csproj", "{43282CEA-02BA-4F27-B35F-8902FA159BEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3E9FB476-DEB7-4261-A1F9-A4044B05F216}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E9FB476-DEB7-4261-A1F9-A4044B05F216}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E9FB476-DEB7-4261-A1F9-A4044B05F216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43282CEA-02BA-4F27-B35F-8902FA159BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43282CEA-02BA-4F27-B35F-8902FA159BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43282CEA-02BA-4F27-B35F-8902FA159BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43282CEA-02BA-4F27-B35F-8902FA159BEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
