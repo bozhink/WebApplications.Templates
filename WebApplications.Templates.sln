@@ -23,27 +23,29 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebForms.Tem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.Spa.Template.IndividualAuth", "WebApplication.Spa.Template.IndividualAuth\WebApplication.Spa.Template.IndividualAuth.csproj", "{F9FE541D-F232-4397-A635-028169FD17B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebApiCore.NoAuth", "WebApplication.WebApiCore.NoAuth\WebApplication.WebApiCore.NoAuth.csproj", "{B811A25F-E663-4D62-AC2B-4BA7A2803FB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication.WebApiCore.NoAuth", "WebApplication.WebApiCore.NoAuth\WebApplication.WebApiCore.NoAuth.csproj", "{B811A25F-E663-4D62-AC2B-4BA7A2803FB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebApiCore.WindowsAuth", "WebApplication.WebApiCore.WindowsAuth\WebApplication.WebApiCore.WindowsAuth.csproj", "{049E1CCA-1A2A-4A20-B917-7DE815DAE9A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication.WebApiCore.WindowsAuth", "WebApplication.WebApiCore.WindowsAuth\WebApplication.WebApiCore.WindowsAuth.csproj", "{049E1CCA-1A2A-4A20-B917-7DE815DAE9A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.MvcCore.NoAuth", "WebApplication.MvcCore.NoAuth\WebApplication.MvcCore.NoAuth.csproj", "{522A1A79-7924-4DFC-9348-36C47257982B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication.MvcCore.NoAuth", "WebApplication.MvcCore.NoAuth\WebApplication.MvcCore.NoAuth.csproj", "{522A1A79-7924-4DFC-9348-36C47257982B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.MvcCore.IndividualAuth", "WebApplication.MvcCore.IndividualAuth\WebApplication.MvcCore.IndividualAuth.csproj", "{E474AEA1-D4C4-4732-8108-2639885EE129}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication.MvcCore.IndividualAuth", "WebApplication.MvcCore.IndividualAuth\WebApplication.MvcCore.IndividualAuth.csproj", "{E474AEA1-D4C4-4732-8108-2639885EE129}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.MvcCore.WindowsAuth", "WebApplication.MvcCore.WindowsAuth\WebApplication.MvcCore.WindowsAuth.csproj", "{04C5976F-2256-490F-AC87-1622FC02F19B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication.MvcCore.WindowsAuth", "WebApplication.MvcCore.WindowsAuth\WebApplication.MvcCore.WindowsAuth.csproj", "{04C5976F-2256-490F-AC87-1622FC02F19B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebCore.NoAuth", "WebApplication.WebCore.NoAuth\WebApplication.WebCore.NoAuth.csproj", "{B636C622-A3F0-4FC8-8172-615EA6B9AD6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication.WebCore.NoAuth", "WebApplication.WebCore.NoAuth\WebApplication.WebCore.NoAuth.csproj", "{B636C622-A3F0-4FC8-8172-615EA6B9AD6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebCore.IndividualAuth", "WebApplication.WebCore.IndividualAuth\WebApplication.WebCore.IndividualAuth.csproj", "{1683A543-A6C2-40BE-8229-F0A3BFA06E28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication.WebCore.IndividualAuth", "WebApplication.WebCore.IndividualAuth\WebApplication.WebCore.IndividualAuth.csproj", "{1683A543-A6C2-40BE-8229-F0A3BFA06E28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.WebCore.WindowsAuth", "WebApplication.WebCore.WindowsAuth\WebApplication.WebCore.WindowsAuth.csproj", "{534FA434-8409-4089-9A26-401F2558E039}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication.WebCore.WindowsAuth", "WebApplication.WebCore.WindowsAuth\WebApplication.WebCore.WindowsAuth.csproj", "{534FA434-8409-4089-9A26-401F2558E039}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.AngularCore.NoAuth", "WebApplication.AngularCore.NoAuth\WebApplication.AngularCore.NoAuth.csproj", "{ABCA8066-7533-4141-BD54-E50FCFF2CC54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication.AngularCore.NoAuth", "WebApplication.AngularCore.NoAuth\WebApplication.AngularCore.NoAuth.csproj", "{ABCA8066-7533-4141-BD54-E50FCFF2CC54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.ReactCore.NoAuth", "WebApplication.ReactCore.NoAuth\WebApplication.ReactCore.NoAuth.csproj", "{8D0B94BE-AE1C-4EE1-BBF6-8A6C648213DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication.ReactCore.NoAuth", "WebApplication.ReactCore.NoAuth\WebApplication.ReactCore.NoAuth.csproj", "{8D0B94BE-AE1C-4EE1-BBF6-8A6C648213DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication.ReactReduxCore.NoAuth", "WebApplication.ReactReduxCore.NoAuth\WebApplication.ReactReduxCore.NoAuth.csproj", "{C4B98047-4C59-4560-BDA3-52FBE9429732}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication.ReactReduxCore.NoAuth", "WebApplication.ReactReduxCore.NoAuth\WebApplication.ReactReduxCore.NoAuth.csproj", "{C4B98047-4C59-4560-BDA3-52FBE9429732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationWithHttps", "WebApplicationWithHttps\WebApplicationWithHttps.csproj", "{E721064D-4778-4F45-8051-31ADC67B5F55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{C4B98047-4C59-4560-BDA3-52FBE9429732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4B98047-4C59-4560-BDA3-52FBE9429732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4B98047-4C59-4560-BDA3-52FBE9429732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E721064D-4778-4F45-8051-31ADC67B5F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E721064D-4778-4F45-8051-31ADC67B5F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E721064D-4778-4F45-8051-31ADC67B5F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E721064D-4778-4F45-8051-31ADC67B5F55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
